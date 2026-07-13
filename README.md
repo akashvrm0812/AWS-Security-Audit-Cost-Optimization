@@ -18,7 +18,7 @@ The project follows the complete cloud security lifecycle:
 # 🏗️ Architecture
 
 <p align="center">
-<img src="Architecture/architecture.png" width="100%">
+<img src="Architecture/Architecture..png" width="100%">
 </p>
 
 ---
@@ -122,9 +122,9 @@ Cost Optimization
 
 ## 3️⃣ Overly Permissive IAM Policy
 
-|                       Before                                           |                               After                                       |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| <img src="Screenshots/Before/before-wildcard-policy.png" width="450"> | <img src="Screenshots/After/after-iam-policy-removed.png" width="450"> |
+|                               After                                     |
+|-----------------------------------------------------------------------|
+ <img src="Screenshots/After/after-iam-policy-removed.png" width="450"> |
 
 ### Actions Performed
 
@@ -187,7 +187,7 @@ AWS CloudTrail recorded all management API activity across the AWS account, prov
 ## AWS Cost Explorer
 
 <p align="center">
-<img src="Screenshots/After/cost-explorer.png" width="100%">
+<img src="Screenshots/Cost and Budget/cost-explorer.png" width="100%">
 </p>
 
 ### Cost Optimization Measures
@@ -201,7 +201,7 @@ AWS CloudTrail recorded all management API activity across the AWS account, prov
 ## AWS Budgets
 
 <p align="center">
-<img src="Screenshots/After/aws-budget.png" width="100%">
+<img src="Screenshots/Cost and Budget/aws-budget.png" width="100%">
 </p>
 
 Configured monthly budget alerts at:
@@ -272,7 +272,6 @@ aws-security-audit-cost-optimization/
 │   ├── After/
 │   ├── Monitoring/
 │   └── Cost/
-└── Policies/
 ```
 
 ---
