@@ -289,5 +289,3 @@ This project was completed in a personal AWS sandbox account for educational and
 ☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
 
 🔗 LinkedIn: https://linkedin.com/in/your-profile
-
-📧 Email: your.email@example.com
