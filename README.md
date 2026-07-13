@@ -272,17 +272,10 @@ aws-security-audit-cost-optimization/
 │   └── Cost/
 ```
 
----
-
-# ⚠️ Disclaimer
-
-This project was completed in a personal AWS sandbox account for educational and portfolio purposes. No production resources or customer data were used.
-
----
 
 # 👨‍💻 Author
 
-**Akash**
+**Akash Verma**
 
 🎓 Final Year B.Tech (Computer Science Engineering)
 
