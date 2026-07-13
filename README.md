@@ -261,10 +261,6 @@ aws-security-audit-cost-optimization/
 ├── README.md
 ├── Architecture/
 │   └── architecture.png
-├── Guide/
-│   └── AWS_Project_Build_Guide.pdf
-├── Report/
-│   └── AWS_Security_Audit_Report.pdf
 ├── Screenshots/
 │   ├── Before/
 │   ├── After/
