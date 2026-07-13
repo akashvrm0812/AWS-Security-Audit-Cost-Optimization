@@ -166,7 +166,7 @@ Cost Optimization
 
 AWS Config continuously evaluated AWS resources using managed compliance rules and verified that all security findings were successfully remediated.
 
-|<img src="Screenshots/After/after-config-iam-mfa-compliant.png" width="100%"> | <img src="Screenshots/After/after-iam-users-compliant.png" width="100%"> |
+|<img src="Screenshots/After/after-config-iam-mfa-compliant.png" width="450"> | <img src="Screenshots/After/after-iam-users-compliant.png" width="450"> |
 
 ---
 
