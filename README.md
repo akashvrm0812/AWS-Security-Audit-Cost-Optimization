@@ -109,7 +109,7 @@ Cost Optimization
 
 |                       Before                                           |                               After                                       |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| <img src="Screenshots/Before/before-public-s3.png" width="450"> | <img src="Screenshots/After/after-s3-private.png" width="450"> |
+| <img src="Screenshots/Before/before-s3-bucket-policy.png" width="450"> | <img src="Screenshots/After/after-s3-block-public-access.png" width="450"> |
 
 ### Actions Performed
 
